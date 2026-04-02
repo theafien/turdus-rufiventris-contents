@@ -1,5 +1,5 @@
 {
-  "lessons":[
-    "lessons/lesson1/lesson1-metadata.json"
-  ]
+  "lessons": {
+    "lesson1": "lessons/lesson1/lesson1-metadata.json"
+  }
 }
